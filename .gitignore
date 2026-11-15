@@ -1,0 +1,14 @@
+# 忽略 Node.js 相關檔案
+node_modules/
+npm-debug.log
+
+# 忽略 VS Code 設定檔
+.vscode/
+
+# 忽略系統檔案
+.DS_Store
+Thumbs.db
+
+# 忽略打包出來的檔案（例如 build 資料夾）
+dist/
+build/
